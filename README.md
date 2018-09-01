@@ -4,5 +4,5 @@
 [link to Google!](http://google.com)
 
 [Visit Markdown File 2 Page](https://github.com/ChaseMiles/MarkdownChallenge/blob/master/MarkdownFile2) 
-![Basketball](MarkdownChallenge/170px-Basketball.png)
+![](170px-Basketball.png)
 
