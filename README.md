@@ -10,10 +10,11 @@
 ![](https://pbs.twimg.com/profile_images/477506725025546242/mhTxlfX_.jpeg) 
 
 ***
-var user = "visitor";
-var message = "Hello, " + user;
+``` js
+var pet = "Pug";
+var message = "Bark, " + name;
 alert(message);
-
+```
 ***
 As a famous person once said: 
 > Pugs,
