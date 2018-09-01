@@ -13,3 +13,7 @@
 var message = "Hello, " + user;
 alert(message);
 ```
+
+As a famous person once said: 
+> Pugs,
+> Not Drugs!
