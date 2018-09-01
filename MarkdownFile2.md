@@ -1,1 +1,3 @@
-[Visit Markdown File 2 Page](https://github.com/ChaseMiles/MarkdownChallenge/blob/master/MarkdownFile2) 
+* MarkdownChallenge
+
+[Back to Main Page](https://github.com/ChaseMiles/MarkdownChallenge/blob/master/MarkdownFile2) 
